@@ -1,26 +1,26 @@
 [
-  {
-    "nome": "Capitólio - MG",
-    "url": "images/1016-300x300.jpg",
-    "dia":25,
-    "mes":"Julho"
-  },
-  {
-    "nome": "Poços de Caldas - MG",
-    "url": "images/1018-300x300.jpg",
-    "dia":8,
-    "mes":"Agosto"
-  },
-  {
-    "nome": "Montes Claros - MG",
-    "url": "images/1021-300x300.jpg",
-    "dia":16,
-    "mes":"Setembro"
-  },
-  {
-    "nome": "Diamantina - MG",
-    "url": "images/101-300x300.jpg",
-    "dia":25,
-    "mes":"Novembro"
-  }
+    {
+        "nome": "Predator",
+        "url": "images/uber-car-2.jpg",
+        "dia": 25,
+        "mes": "Julho"
+    },
+    {
+        "nome": "Delta",
+        "url": "images/uber-car-3.jpg",
+        "dia": 8,
+        "mes": "Agosto"
+    },
+    {
+        "nome": "FPS Hunter",
+        "url": "images/uber-car-4.jpg",
+        "dia": 16,
+        "mes": "Setembro"
+    },
+    {
+        "nome": "Omega Cube",
+        "url": "images/uber-car-5.jpg",
+        "dia": 25,
+        "mes": "Novembro"
+    }
 ]
