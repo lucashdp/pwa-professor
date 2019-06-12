@@ -3,7 +3,7 @@
 const CACHE_NAME = 'static-cache-v1';
 
 const FILES_TO_CACHE = [
-    'images/offline.svg',
+    'images/offline.png',
     'offline_001.html',
 ];
 
